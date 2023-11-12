@@ -1,0 +1,861 @@
+fileFormatVersion: 2
+guid: 2960eb91e6fac8c45beabffa14a31fe6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mortar_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 864
+        width: 150
+        height: 115
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb9fa7cf19d8a14c97831a1fc6c19bc
+      internalID: -184253786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_17
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 864
+        width: 149
+        height: 155
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0cc9cd7ea47104aac819e1413e3e47
+      internalID: -1714406055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_21
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 866
+        width: 149
+        height: 115
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503a4a50e9fb11645a86abe4c12c07bf
+      internalID: -161736862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_22
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 899
+        width: 171
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d953b22c32fcb0e459d87f9683ca3de0
+      internalID: 1116027363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_23
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 869
+        width: 149
+        height: 155
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba98d905dd650748940645c58e6ab66
+      internalID: -277035425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_24
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 865
+        width: 158
+        height: 163
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aae040ac28042b41987d1aa73bbeb04
+      internalID: -1509026122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_25
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 822
+        width: 95
+        height: 121
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b23c11eb95617e40b531a0e58716e19
+      internalID: 1027857548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_26
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 828
+        width: 51
+        height: 133
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d2e14854078374ab0701b5fbbbdbdd
+      internalID: -86623745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_27
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 819
+        width: 84
+        height: 122
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce4f6cafaaa13641a983133e0a36b87
+      internalID: 2043924347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_41
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 687
+        width: 149
+        height: 154
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9dfc8fda103444fa868bb19bb5c0a2
+      internalID: -1460691657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_50
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 687
+        width: 149
+        height: 115
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa0b6fb28ff5b045834f283496e57d0
+      internalID: 2016893997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_51
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 692
+        width: 149
+        height: 157
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6840a9f5628dec84b9e5eeb4e28bd243
+      internalID: 984826009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_52
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 688
+        width: 149
+        height: 155
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7779c5f6d854fa24c89164cee3d492e3
+      internalID: -312307740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_53
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 689
+        width: 150
+        height: 116
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682e060347266ed45878f5ff775114fc
+      internalID: 98382460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_54
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 716
+        width: 180
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b078fac366de04794ca3f903b18e5d
+      internalID: -424906579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_55
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 625
+        width: 150
+        height: 116
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be9e77ecd0dc0548a7997413dae2296
+      internalID: -1348049548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_66
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 511
+        width: 151
+        height: 140
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dedbec830d2f44a951434cc0483189
+      internalID: 1150144213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_67
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 516
+        width: 150
+        height: 162
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c98788ddd9188448a15e46c1fd650e
+      internalID: -32624759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_68
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 511
+        width: 149
+        height: 160
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549f1a57578900440854ac89806ba0b6
+      internalID: -376514788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_70
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 512
+        width: 149
+        height: 162
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dfa4c1718b942459097a1528d3e169
+      internalID: -2122109424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_71
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 535
+        width: 150
+        height: 114
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5916c9ea23bc64a826d2d6543c98f5
+      internalID: -399837764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_72
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 513
+        width: 150
+        height: 120
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e01f1607a5ca04683324e774906f1b
+      internalID: 1959596999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_73
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 544
+        width: 170
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120f97b180403c14a8fb61ceab50ca89
+      internalID: -1495482667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_74
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 335
+        width: 149
+        height: 133
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6299729e4129f4685c9edfcdd77994
+      internalID: -1278387379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_75
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 336
+        width: 149
+        height: 142
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace09ca55c532a7498354709585a70e9
+      internalID: -573665233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_80
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 333
+        width: 150
+        height: 160
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44df5e91a2f9650409f64115359176f4
+      internalID: -607355123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_81
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 322
+        width: 150
+        height: 157
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a11efbedbf382640a04c25bf027b3e8
+      internalID: -1780016121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_83
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 337
+        width: 149
+        height: 121
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4964b8ff94b80845ac30e139cd272a2
+      internalID: -1348497773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_84
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 367
+        width: 170
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22da4314cd3d10540a6729d2fecd665c
+      internalID: -55694631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_85
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 339
+        width: 149
+        height: 115
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3cf8e4397c36745923a26b1436b0b9
+      internalID: 1312669315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mortar_86
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 335
+        width: 150
+        height: 160
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08abcaff471234488ff21005fa05dda
+      internalID: -1276416291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mortar_15: 920635456
+      Mortar_68: -376514788
+      Mortar_53: 98382460
+      Mortar_32: 909206225
+      Mortar_38: -995704905
+      Mortar_52: -312307740
+      Mortar_2: -191277126
+      Mortar_55: -1348049548
+      Mortar_66: 1150144213
+      Mortar_86: -1276416291
+      Mortar_13: 668423849
+      Mortar_19: -353144334
+      Mortar_1: 412466597
+      Mortar_84: -55694631
+      Mortar_16: -184253786
+      Mortar_46: -330791439
+      Mortar_81: -1780016121
+      Mortar_29: 1580123086
+      Mortar_39: 1960189420
+      Mortar_77: 2036956225
+      Mortar_10: 972082649
+      Mortar_27: 2043924347
+      Mortar_34: 863978253
+      Mortar_80: -607355123
+      Mortar_4: 2052461080
+      Mortar_69: -919263918
+      Mortar_26: -86623745
+      Mortar_63: 2126169215
+      Mortar_76: -955130754
+      Mortar_64: -351464793
+      Mortar_74: -1278387379
+      Mortar_43: -111507871
+      Mortar_75: -573665233
+      Mortar_45: -1284033760
+      Mortar_73: -1495482667
+      Mortar_59: -238351484
+      Mortar_51: 984826009
+      Mortar_60: 111817184
+      Mortar_65: -29980229
+      Mortar_61: -1457466137
+      Mortar_7: -1703389463
+      Mortar_42: 726201477
+      Mortar_47: -664010857
+      Mortar_44: 1919452788
+      Mortar_50: 2016893997
+      Mortar_9: 143922081
+      Mortar_17: -1714406055
+      Mortar_31: -625516390
+      Mortar_22: 1116027363
+      Mortar_56: -1181665611
+      Mortar_70: -2122109424
+      Mortar_40: 1256611422
+      Mortar_25: 1027857548
+      Mortar_5: 104522315
+      Mortar_54: -424906579
+      Mortar_8: 1098794865
+      Mortar_83: -1348497773
+      Mortar_85: 1312669315
+      Mortar_35: -978498981
+      Mortar_58: 592861818
+      Mortar_18: 2110737090
+      Mortar_67: -32624759
+      Mortar_3: 1304221571
+      Mortar_37: 1776717483
+      Mortar_30: -1293861201
+      Mortar_14: 257667681
+      Mortar_24: -1509026122
+      Mortar_62: 952623072
+      Mortar_72: 1959596999
+      Mortar_21: -161736862
+      Mortar_23: -277035425
+      Mortar_12: -719459342
+      Mortar_78: 406932798
+      Mortar_0: -1337373894
+      Mortar_82: 2117151449
+      Mortar_49: 731300457
+      Mortar_57: -65543044
+      Mortar_28: 862148415
+      Mortar_20: -881298511
+      Mortar_6: -1724355787
+      Mortar_11: 1153828534
+      Mortar_41: -1460691657
+      Mortar_36: -1654333942
+      Mortar_71: -399837764
+      Mortar_79: -728347361
+      Mortar_48: -1868821959
+      Mortar_33: 1609299633
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
